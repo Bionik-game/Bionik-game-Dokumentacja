@@ -1,6 +1,5 @@
 {
 	"stanPlanszy": {
-		"idOdczytu": 0,
 		"infoRoboty": [
 			{
 				"pozycjaX": 0, 
@@ -20,7 +19,6 @@
 	},
 
 	"konfiguracja": {
-		"idOdczytu": 0,
 		"wyznacznikiPlanszy": [
 			{
 				"pozycjaX": 0, 
@@ -37,7 +35,6 @@
 	},
 
 	"sterowania": {
-		"idOdczytu": 0,
 		"sterowaniaRobota": [
 			{
 				"idRobota": 0,
