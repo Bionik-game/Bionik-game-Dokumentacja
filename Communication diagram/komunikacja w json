@@ -1,0 +1,72 @@
+{
+	"stanPlanszy": {
+		"idOdczytu": 0,
+		"infoRoboty": [
+			{
+				"pozycjaX": 0, 
+				"pozycjaY": 0, 
+				"obrót": 0, 
+				"IdRobota": 0
+			}
+		],
+		"infoWoreczki": [
+			{
+				"pozycjaX": 0, 
+				"pozycjaY": 0,
+				"pole": 0, 
+				"kolor": "czerwony"
+			}
+		]
+	},
+
+	"konfiguracja": {
+		"idOdczytu": 0,
+		"wyznacznikiPlanszy": [
+			{
+				"pozycjaX": 0, 
+				"pozycjaY": 0, 
+			}
+		],
+		"pozycjaBramki": [
+			{
+				"pozycjaX": 0, 
+				"pozycjaY": 0,
+				"idBramki": 0
+			}
+		]
+	},
+
+	"sterowania": {
+		"idOdczytu": 0,
+		"sterowaniaRobota": [
+			{
+				"idRobota": 0,
+				"pędkośćX": "0,0",
+				"prękośćY": "0,0",
+				"prędkośćObrót": "0,0"
+			}
+		]
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
